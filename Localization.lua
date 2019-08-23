@@ -11,6 +11,11 @@ local localeText = {
         IGNORED = "Ignoré",
         TRAIN_ALL = "Tout entrainer"
     }
+    }
+	ruRU = {
+        IGNORED = "Игнорируется",
+        TRAIN_ALL = "Изучить все"
+    }
 }
 
 ctp.L = localeText["enUS"]
